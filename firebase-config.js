@@ -8,11 +8,11 @@
 // Access control is handled by your Realtime Database security rules,
 // not by hiding this object.
 window.__FIREBASE_CONFIG__ = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  databaseURL: "https://YOUR_PROJECT_ID-default-rtdb.firebaseio.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID",
+  apiKey: "AIzaSyDxfHklwgXtWNR3GPRyfQdY8jYOWdvObCA",
+  authDomain: "farkle-c23b1.firebaseapp.com",
+  databaseURL: "https://farkle-c23b1-default-rtdb.firebaseio.com",
+  projectId: "farkle-c23b1",
+  storageBucket: "farkle-c23b1.appspot.com",
+  messagingSenderId: "407146575825",
+  appId: "1:407146575825:web:04d87a958f1b73df7d12f0",
 };
